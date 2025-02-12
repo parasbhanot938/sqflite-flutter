@@ -1,0 +1,1 @@
+ /Users/softuvo/Desktop/sqflite-flutter/.dart_tool/flutter_build/872e7a23e717b362ba078b2b293af7ef/native_assets.yaml: 
